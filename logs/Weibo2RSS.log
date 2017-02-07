@@ -1,0 +1,60 @@
+[2016-11-02 02:11:52.712] [INFO] Weibo2RSS - 🍻 Weibo2RSS start! Cheers!
+[2016-11-02 02:11:54.037] [INFO] Weibo2RSS - Weibo2RSS uid 2025479687 form origin, IP: ::ffff:127.0.0.1
+[2016-11-02 02:11:54.224] [INFO] Weibo2RSS - Set redis: Weibo2RSS2025479687
+[2016-11-02 02:11:54.230] [INFO] console - Reply: OK
+[2016-11-02 02:12:04.398] [INFO] Weibo2RSS - Weibo2RSS uid 2025479687.com form origin, IP: ::ffff:127.0.0.1
+[2016-11-02 02:12:04.531] [INFO] Weibo2RSS - Set redis: Weibo2RSS2025479687.com
+[2016-11-02 02:12:04.533] [INFO] console - Reply: OK
+[2016-11-02 02:12:05.577] [INFO] Weibo2RSS - Weibo2RSS uid 2025479687.com form redis, IP: ::ffff:127.0.0.1
+[2016-11-02 02:13:28.544] [INFO] Weibo2RSS - Weibo2RSS uid 2025479687 form redis, IP: ::ffff:127.0.0.1
+[2016-11-02 02:13:29.635] [INFO] Weibo2RSS - Weibo2RSS uid 2025479687 form redis, IP: ::ffff:127.0.0.1
+[2016-11-02 02:16:17.515] [INFO] Weibo2RSS - Weibo2RSS uid 2025479687.com form redis, IP: ::ffff:127.0.0.1
+[2016-11-02 02:22:10.306] [INFO] Weibo2RSS - Weibo2RSS uid 3306934123 form origin, IP: ::ffff:127.0.0.1
+[2016-11-02 02:22:10.551] [INFO] Weibo2RSS - Set redis: Weibo2RSS3306934123
+[2016-11-02 02:22:10.581] [INFO] console - Reply: OK
+[2016-11-02 02:23:04.844] [INFO] Weibo2RSS - 🍻 Weibo2RSS start! Cheers!
+[2016-11-02 02:23:06.994] [INFO] Weibo2RSS - Weibo2RSS uid 3306934123 form redis, IP: ::ffff:127.0.0.1
+[2016-11-02 02:23:09.012] [INFO] Weibo2RSS - Weibo2RSS uid 3306934123 form redis, IP: ::ffff:127.0.0.1
+[2016-11-02 02:23:10.324] [INFO] Weibo2RSS - Weibo2RSS uid 3306934123 form redis, IP: ::ffff:127.0.0.1
+[2016-11-02 02:24:01.702] [INFO] Weibo2RSS - Weibo2RSS uid 3306934123 form redis, IP: ::ffff:127.0.0.1
+[2016-11-02 02:24:03.561] [INFO] Weibo2RSS - Weibo2RSS uid 3306934123 form redis, IP: ::ffff:127.0.0.1
+[2016-11-02 02:24:04.381] [INFO] Weibo2RSS - Weibo2RSS uid 3306934123 form redis, IP: ::ffff:127.0.0.1
+[2016-11-02 02:24:05.069] [INFO] Weibo2RSS - Weibo2RSS uid 3306934123 form redis, IP: ::ffff:127.0.0.1
+[2016-11-02 02:26:39.344] [INFO] Weibo2RSS - Weibo2RSS uid 3306934123 form redis, IP: ::ffff:127.0.0.1
+[2016-11-02 02:27:56.116] [INFO] Weibo2RSS - Weibo2RSS uid 3306934123 form origin, IP: ::ffff:127.0.0.1
+[2016-11-02 02:27:56.311] [INFO] Weibo2RSS - Set redis: Weibo2RSS3306934123
+[2016-11-02 02:27:56.313] [INFO] console - Reply: OK
+[2016-11-02 02:32:31.321] [INFO] Weibo2RSS - 🍻 Weibo2RSS start! Cheers!
+[2016-11-02 02:32:37.076] [INFO] Weibo2RSS - Weibo2RSS uid 3306934123 form redis, IP: ::ffff:127.0.0.1
+[2016-11-02 02:32:38.267] [INFO] Weibo2RSS - Weibo2RSS uid 3306934123 form redis, IP: ::ffff:127.0.0.1
+[2016-11-02 02:32:39.210] [INFO] Weibo2RSS - Weibo2RSS uid 3306934123 form redis, IP: ::ffff:127.0.0.1
+[2016-11-02 02:32:39.998] [INFO] Weibo2RSS - Weibo2RSS uid 3306934123 form redis, IP: ::ffff:127.0.0.1
+[2016-11-02 02:36:29.393] [INFO] Weibo2RSS - 🍻 Weibo2RSS start! Cheers!
+[2016-11-02 02:36:30.437] [INFO] Weibo2RSS - Weibo2RSS uid 3306934123 form origin, IP: ::ffff:127.0.0.1
+[2016-11-02 02:36:30.616] [INFO] Weibo2RSS - Set redis: Weibo2RSS3306934123
+[2016-11-02 02:36:30.621] [INFO] console - Reply: OK
+[2016-11-02 02:50:29.872] [INFO] Weibo2RSS - Weibo2RSS uid 3225569200 form origin, IP: ::ffff:127.0.0.1
+[2016-11-02 02:50:30.098] [INFO] Weibo2RSS - Set redis: Weibo2RSS3225569200
+[2016-11-02 02:50:30.117] [INFO] console - Reply: OK
+[2016-11-02 12:56:59.695] [INFO] Weibo2RSS - 🍻 Weibo2RSS start! Cheers!
+[2016-11-02 12:57:24.422] [INFO] Weibo2RSS - Weibo2RSS uid 2025479687 form origin, IP: ::ffff:127.0.0.1
+[2016-11-02 12:57:25.309] [INFO] Weibo2RSS - Set redis: Weibo2RSS2025479687
+[2016-11-02 12:57:25.317] [INFO] console - Reply: OK
+[2016-11-02 12:57:39.525] [INFO] Weibo2RSS - Weibo2RSS uid 2025479687 form origin, IP: ::ffff:127.0.0.1
+[2016-11-02 12:57:39.669] [INFO] Weibo2RSS - Set redis: Weibo2RSS2025479687
+[2016-11-02 12:57:39.670] [INFO] console - Reply: OK
+[2016-11-02 12:57:44.074] [INFO] Weibo2RSS - Weibo2RSS uid 2025479687 form origin, IP: ::ffff:127.0.0.1
+[2016-11-02 12:57:44.198] [INFO] Weibo2RSS - Set redis: Weibo2RSS2025479687
+[2016-11-02 12:57:44.199] [INFO] console - Reply: OK
+[2016-11-02 12:57:48.910] [INFO] Weibo2RSS - Weibo2RSS uid 2025479687 form redis, IP: ::ffff:127.0.0.1
+[2016-11-02 12:57:51.140] [INFO] Weibo2RSS - Weibo2RSS uid 2025479687 form redis, IP: ::ffff:127.0.0.1
+[2016-11-04 17:02:52.750] [INFO] Weibo2RSS - 🍻 Weibo2RSS start! Cheers!
+[2016-11-04 17:03:01.004] [INFO] Weibo2RSS - Weibo2RSS uid 3225569200 form origin, IP: ::ffff:127.0.0.1
+[2016-11-04 17:03:01.450] [ERROR] Weibo2RSS - Bilibilib Error: getting cid [ReferenceError: redis is not defined]
+ReferenceError: redis is not defined
+    at /Users/DIYgod/Code/Project/Weibo2RSS/routes/get.js:89:13
+    at process._tickCallback (node.js:401:9)
+[2016-11-04 17:03:40.199] [INFO] Weibo2RSS - 🍻 Weibo2RSS start! Cheers!
+[2016-11-04 17:03:41.769] [INFO] Weibo2RSS - Weibo2RSS uid 3225569200 form origin, IP: ::ffff:127.0.0.1
+[2016-11-04 17:03:45.509] [INFO] Weibo2RSS - Weibo2RSS uid 3225569200 form origin, IP: ::ffff:127.0.0.1
+[2016-11-04 17:03:48.466] [INFO] Weibo2RSS - Weibo2RSS uid 3225569200 form origin, IP: ::ffff:127.0.0.1

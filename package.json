@@ -1,0 +1,28 @@
+{
+  "name": "Text2Emotion",
+  "version": "0.0.1",
+  "description": "分析一句话的情绪值",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DIYgod/Text2Emotion.git"
+  },
+  "keywords": [
+    "Emotion"
+  ],
+  "author": "DIYgod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DIYgod/Text2Emotion/issues"
+  },
+  "homepage": "https://github.com/DIYgod/Text2Emotion#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.14.0",
+    "log4js": "^0.6.38",
+    "mongoose": "^4.1.9",
+    "node-fetch": "^1.6.3",
+    "redis": "^2.6.3",
+    "request": "^2.79.0"
+  }
+}
