@@ -2,3 +2,4 @@
 node_modules
 npm-debug.log
 Text2Emotion.log*
+config.js
